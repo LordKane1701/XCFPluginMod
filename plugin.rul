@@ -11,6 +11,31 @@ items:
     size: 2 
     costSell: 1555
     costBuy: 5
+  - type: STR_FIRST_AID
+    weight: 2
+    painKiller: 10
+    heal: 10
+    stimulant: 10
+  - type: STR_MEDI_BAG
+    weight: 2
+    painKiller: 10
+    heal: 10
+    stimulant: 10
+  - type: STR_MEDI_PACK
+    weight: 2
+    painKiller: 10
+    heal: 10
+    stimulant: 10
+  - type: STR_TRAUMA_PACK
+    weight: 2
+    painKiller: 10
+    heal: 10
+    stimulant: 10
+  - type: STR_MEDI_KIT
+    weight: 2
+    painKiller: 10
+    heal: 10
+    stimulant: 10
 
 soldierTransformation:
   - name: STR_LV1
@@ -746,4 +771,12 @@ crafts:
   - type: STR_IMPROVED_MUDRANGER
     requires:
       - STR_IMPROVED_MUDRANGER
+    fuelMax: 1000
+  - type: STR_OSPREY
+    requires:
+      - STR_OSPREY
+    fuelMax: 2000
+  - type: STR_HELICOPTER
+    requires:
+      - STR_HELICOPTER
     fuelMax: 1000
