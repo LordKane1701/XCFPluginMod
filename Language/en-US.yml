@@ -13,3 +13,8 @@ en-US:
  STR_YUKIMIN: "Yukimin Plush"
  STR_ICHIMI: "Ichimi Plush"
  STR_LABO: "Basic Lab"
+ STR_LV25STR: "+25% to Strength"
+ STR_LV20STR: "+20% to Strength"
+ STR_LV15STR: "+15% to Strength"
+ STR_LV10STR: "+10% to Strength"
+ STR_LV05STR: "+5% to Strength"
