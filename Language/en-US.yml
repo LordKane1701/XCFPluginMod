@@ -18,3 +18,8 @@ en-US:
  STR_LV15STR: "+15% to Strength"
  STR_LV10STR: "+10% to Strength"
  STR_LV05STR: "+5% to Strength"
+ STR_LV05MIL: "+5% to Military Stats"
+ STR_LV10MIL: "+10% to Military Stats"
+ STR_LV15MIL: "+15% to Military Stats"
+ STR_LV20MIL: "+20% to Military Stats"
+ STR_LV25MIL: "+20 to Military Stats"

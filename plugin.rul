@@ -43,7 +43,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -53,7 +53,14 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
-    #requiredPreviousTransformations:
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
+  # requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
      # - STR_SOLDIER
@@ -119,7 +126,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -129,6 +136,13 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -195,7 +209,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -205,6 +219,13 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -271,7 +292,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -281,6 +302,13 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -347,7 +375,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -357,6 +385,13 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -424,7 +459,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -434,6 +469,12 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -493,7 +534,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -503,6 +544,12 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -562,7 +609,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -572,6 +619,12 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -631,7 +684,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -641,6 +694,12 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -700,7 +759,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -710,6 +769,12 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -769,7 +834,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -779,6 +844,13 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -836,7 +908,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -846,6 +918,13 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -903,7 +982,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -913,6 +992,13 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -970,7 +1056,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -980,6 +1066,13 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -1037,7 +1130,7 @@ soldierTransformation:
     # requires:
     #requiresBaseFunc:
     #  - FUNC_ADVANCED_MEDBAY
-    producedSoldierType: STR_SOLDIER
+    producedSoldierType: 
     producedSoldierArmor: STR_NONE_UC
     keepSoldierArmor: true
     createsClone: false
@@ -1047,6 +1140,13 @@ soldierTransformation:
     allowsWoundedSoldiers: false
     allowedSoldierTypes:
       - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
     #requiredPreviousTransformations:
     #  - STR_DNA_SAMPLING
      # forbiddenPreviousTransformations:
@@ -1082,6 +1182,391 @@ soldierTransformation:
 #      melee: 5
     percentOverallStatChange:
        strength: 25
+  #  percentGainedStatChange:
+   #   tu: 95
+   #   stamina: 95
+    #  health: 95
+    #  bravery: 95
+    #  reactions: 95
+    #  firing: 95
+    #  throwing: 95
+    #  strength: 95
+    #  psiStrength: 95
+   #   psiSkill: 95
+  #    melee: 95
+    useRandomStats: false
+    lowerBoundAtMinStats: false
+    upperBoundAtMaxStats: false
+    upperBoundAtStatCaps: false
+
+  - name: STR_LV05MIL
+    listOrder: 16
+    # requires:
+    #requiresBaseFunc:
+    #  - FUNC_ADVANCED_MEDBAY
+    producedSoldierType: 
+    producedSoldierArmor: STR_NONE_UC
+    keepSoldierArmor: true
+    createsClone: false
+    needsCorpseRecovered: false
+    allowsDeadSoldiers: false
+    allowsLiveSoldiers: true
+    allowsWoundedSoldiers: false
+    allowedSoldierTypes:
+      - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
+    #requiredPreviousTransformations:
+    #  - STR_DNA_SAMPLING
+     # forbiddenPreviousTransformations:
+     # - STR_SOLDIER
+    requiredMinStats:
+      tu: 0
+      stamina: 0
+      health: 0
+      bravery: 0
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+#    requiredItems:
+#     STR_NANO_AUG_CAN: 1
+    cost: 500
+    transferTime: 0
+    recoveryTime: 0
+#    flatOverallStatChange:
+#      tu: 5
+#      stamina: 5
+#      health: 5
+#      bravery: 5
+#      reactions: 5
+#      firing: 5
+#      throwing: 5
+#      strength: 5
+#      psiStrength: 5
+#      psiSkill: 5
+#      melee: 5
+    percentOverallStatChange:
+       reactions: 5
+       firing: 5
+       throwing: 5
+       melee: 5
+  #  percentGainedStatChange:
+   #   tu: 95
+   #   stamina: 95
+    #  health: 95
+    #  bravery: 95
+    #  reactions: 95
+    #  firing: 95
+    #  throwing: 95
+    #  strength: 95
+    #  psiStrength: 95
+   #   psiSkill: 95
+  #    melee: 95
+    useRandomStats: false
+    lowerBoundAtMinStats: false
+    upperBoundAtMaxStats: false
+    upperBoundAtStatCaps: false
+
+  - name: STR_LV10MIL
+    listOrder: 17
+    # requires:
+    #requiresBaseFunc:
+    #  - FUNC_ADVANCED_MEDBAY
+    producedSoldierType: 
+    producedSoldierArmor: STR_NONE_UC
+    keepSoldierArmor: true
+    createsClone: false
+    needsCorpseRecovered: false
+    allowsDeadSoldiers: false
+    allowsLiveSoldiers: true
+    allowsWoundedSoldiers: false
+    allowedSoldierTypes:
+      - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
+    #requiredPreviousTransformations:
+    #  - STR_DNA_SAMPLING
+     # forbiddenPreviousTransformations:
+     # - STR_SOLDIER
+    requiredMinStats:
+      tu: 0
+      stamina: 0
+      health: 0
+      bravery: 0
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+#    requiredItems:
+#     STR_NANO_AUG_CAN: 1
+    cost: 500
+    transferTime: 0
+    recoveryTime: 0
+#    flatOverallStatChange:
+#      tu: 5
+#      stamina: 5
+#      health: 5
+#      bravery: 5
+#      reactions: 5
+#      firing: 5
+#      throwing: 5
+#      strength: 5
+#      psiStrength: 5
+#      psiSkill: 5
+#      melee: 5
+    percentOverallStatChange:
+       reactions: 10
+       firing: 10
+       throwing: 10
+       melee: 10
+  #  percentGainedStatChange:
+   #   tu: 95
+   #   stamina: 95
+    #  health: 95
+    #  bravery: 95
+    #  reactions: 95
+    #  firing: 95
+    #  throwing: 95
+    #  strength: 95
+    #  psiStrength: 95
+   #   psiSkill: 95
+  #    melee: 95
+    useRandomStats: false
+    lowerBoundAtMinStats: false
+    upperBoundAtMaxStats: false
+    upperBoundAtStatCaps: false
+
+  - name: STR_LV15MIL
+    listOrder: 18
+    # requires:
+    #requiresBaseFunc:
+    #  - FUNC_ADVANCED_MEDBAY
+    producedSoldierType: 
+    producedSoldierArmor: STR_NONE_UC
+    keepSoldierArmor: true
+    createsClone: false
+    needsCorpseRecovered: false
+    allowsDeadSoldiers: false
+    allowsLiveSoldiers: true
+    allowsWoundedSoldiers: false
+    allowedSoldierTypes:
+      - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
+    #requiredPreviousTransformations:
+    #  - STR_DNA_SAMPLING
+     # forbiddenPreviousTransformations:
+     # - STR_SOLDIER
+    requiredMinStats:
+      tu: 0
+      stamina: 0
+      health: 0
+      bravery: 0
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+#    requiredItems:
+#     STR_NANO_AUG_CAN: 1
+    cost: 500
+    transferTime: 0
+    recoveryTime: 0
+#    flatOverallStatChange:
+#      tu: 5
+#      stamina: 5
+#      health: 5
+#      bravery: 5
+#      reactions: 5
+#      firing: 5
+#      throwing: 5
+#      strength: 5
+#      psiStrength: 5
+#      psiSkill: 5
+#      melee: 5
+    percentOverallStatChange:
+       reactions: 15
+       firing: 15
+       throwing: 15
+       melee: 15
+  #  percentGainedStatChange:
+   #   tu: 95
+   #   stamina: 95
+    #  health: 95
+    #  bravery: 95
+    #  reactions: 95
+    #  firing: 95
+    #  throwing: 95
+    #  strength: 95
+    #  psiStrength: 95
+   #   psiSkill: 95
+  #    melee: 95
+    useRandomStats: false
+    lowerBoundAtMinStats: false
+    upperBoundAtMaxStats: false
+    upperBoundAtStatCaps: false
+
+  - name: STR_LV20MIL
+    listOrder: 19
+    # requires:
+    #requiresBaseFunc:
+    #  - FUNC_ADVANCED_MEDBAY
+    producedSoldierType: 
+    producedSoldierArmor: STR_NONE_UC
+    keepSoldierArmor: true
+    createsClone: false
+    needsCorpseRecovered: false
+    allowsDeadSoldiers: false
+    allowsLiveSoldiers: true
+    allowsWoundedSoldiers: false
+    allowedSoldierTypes:
+      - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
+    #requiredPreviousTransformations:
+    #  - STR_DNA_SAMPLING
+     # forbiddenPreviousTransformations:
+     # - STR_SOLDIER
+    requiredMinStats:
+      tu: 0
+      stamina: 0
+      health: 0
+      bravery: 0
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+#    requiredItems:
+#     STR_NANO_AUG_CAN: 1
+    cost: 500
+    transferTime: 0
+    recoveryTime: 0
+#    flatOverallStatChange:
+#      tu: 5
+#      stamina: 5
+#      health: 5
+#      bravery: 5
+#      reactions: 5
+#      firing: 5
+#      throwing: 5
+#      strength: 5
+#      psiStrength: 5
+#      psiSkill: 5
+#      melee: 5
+    percentOverallStatChange:
+       reactions: 20
+       firing: 20
+       throwing: 20
+       melee: 20
+  #  percentGainedStatChange:
+   #   tu: 95
+   #   stamina: 95
+    #  health: 95
+    #  bravery: 95
+    #  reactions: 95
+    #  firing: 95
+    #  throwing: 95
+    #  strength: 95
+    #  psiStrength: 95
+   #   psiSkill: 95
+  #    melee: 95
+    useRandomStats: false
+    lowerBoundAtMinStats: false
+    upperBoundAtMaxStats: false
+    upperBoundAtStatCaps: false
+
+  - name: STR_LV25MIL
+    listOrder: 20
+    # requires:
+    #requiresBaseFunc:
+    #  - FUNC_ADVANCED_MEDBAY
+    producedSoldierType: 
+    producedSoldierArmor: STR_NONE_UC
+    keepSoldierArmor: true
+    createsClone: false
+    needsCorpseRecovered: false
+    allowsDeadSoldiers: false
+    allowsLiveSoldiers: true
+    allowsWoundedSoldiers: false
+    allowedSoldierTypes:
+      - STR_SOLDIER
+      - STR_INFERNAL
+      - STR_SPARTAN
+      - STR_OLYMPIAN
+      - STR_PROTEAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
+    #requiredPreviousTransformations:
+    #  - STR_DNA_SAMPLING
+     # forbiddenPreviousTransformations:
+     # - STR_SOLDIER
+    requiredMinStats:
+      tu: 0
+      stamina: 0
+      health: 0
+      bravery: 0
+      reactions: 0
+      firing: 0
+      throwing: 0
+      strength: 0
+      psiStrength: 0
+      psiSkill: 0
+      melee: 0
+#    requiredItems:
+#     STR_NANO_AUG_CAN: 1
+    cost: 500
+    transferTime: 0
+    recoveryTime: 0
+#    flatOverallStatChange:
+#      tu: 5
+#      stamina: 5
+#      health: 5
+#      bravery: 5
+#      reactions: 5
+#      firing: 5
+#      throwing: 5
+#      strength: 5
+#      psiStrength: 5
+#      psiSkill: 5
+#      melee: 5
+    percentOverallStatChange:
+       reactions: 25
+       firing: 25
+       throwing: 25
+       melee: 25
   #  percentGainedStatChange:
    #   tu: 95
    #   stamina: 95
@@ -1195,3 +1680,12 @@ armors:
     sideArmor: 12
     rearArmor: 16
     underArmor: 12
+
+  - type: STR_VEST_BUSINESS_SUIT_UC
+    weight: -5
+    stats:
+      tu: -5
+    frontArmor: 20
+    sideArmor: 10
+    rearArmor: 10
+    underArmor: 6
